@@ -167,10 +167,6 @@ Para replicar o resultado e implantar a arquitetura Serverless de relatórios, s
 
 ![E-mail com Relatório Final Recebido](1%20\(28\).png)
 
-> **📹 Demonstração em Vídeo:** Assista ao passo a passo completo da execução do laboratório acelerado no YouTube:
-
-[![Assistir Demonstração no YouTube](https://img.shields.io/badge/▶️_Assistir_Demonstração_Completa-YouTube-red?style=for-the-badge&logo=youtube)](COLE_O_LINK_DO_SEU_VIDEO_AQUI)
-
 ---
 
 ## 👨‍💻 Expert
